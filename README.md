@@ -1,1 +1,1 @@
-# z-notes-backend
+# ideas-compass-backend
